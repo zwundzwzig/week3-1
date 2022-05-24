@@ -1,0 +1,37 @@
+body {
+	background-color: wheat;
+}
+
+.screen {
+	margin: 300px 600px;
+	text-align: center;
+	border: 1px solid black;
+	border-radius: 10px;
+	height: 150px;
+	box-shadow: 0px 0px 1.5px 1.5px rgb(171, 170, 170);
+}
+
+.container {
+	background-color: white;
+	border-radius: 10px;
+	height: 150px;
+}
+
+#input-box {
+	margin: 15px 0 20px 0;
+	border-radius: 5px;
+  width: 280px;
+	height: 40px;
+	text-align: center;
+}
+
+#console {
+	margin: 0 0 15px 150px;
+	color: rgba(0, 0, 0, 0.63);
+}
+
+#input-box-submit-button {
+	margin: 0 0 15px 0;
+  width: 280px;
+	height: 25px;
+}
